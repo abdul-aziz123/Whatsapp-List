@@ -46,4 +46,4 @@ This C++ program simulates a WhatsApp-like application where users can create ac
    - Enter the name and number of the contact you wish to add.
 
 4. **Searching Contacts**:
-   - Select the option to search contacts and enter the name of
+   - Select the option to search contacts and enter the name
