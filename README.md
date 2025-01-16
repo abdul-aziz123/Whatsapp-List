@@ -1,7 +1,3 @@
-Sure, here's a markdown documentation for the provided C++ code:
-
----
-
 # WhatsApp-like Application Documentation
 
 ## Overview
